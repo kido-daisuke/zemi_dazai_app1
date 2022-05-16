@@ -1,3 +1,0 @@
-turtle
-streamlit==1.9.0
-PIL
